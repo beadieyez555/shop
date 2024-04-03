@@ -23,7 +23,7 @@ grid-template-areas:
 }
 .header{
 grid-area: header;
-border: solid 1px;
+border: solid 3px;
 border-color: white;
 background: #8ad6f2;
 font-size: 35px;
@@ -32,7 +32,7 @@ text-align: center;
 }
 .nav{
 grid-area: nav;
-border: solid 1px;
+border: solid 3px;
 border-color: white;
 background: #8ad6f2;
 font-size: 25px;
@@ -41,7 +41,7 @@ text-align: center;
 }
 .main{
 grid-area: main;
-border: solid 1px;
+border: solid 3px;
 border-color: white;
 background: #8ad6f2;
 font-size: 20px;
@@ -50,7 +50,7 @@ text-align: center;
 }
 .footer{
 grid-area: footer;
-border: solid 1px;
+border: solid 3px;
 border-color: white;
 background: #8ad6f2;
 font-size: 15px;
