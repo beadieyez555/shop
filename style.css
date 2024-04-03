@@ -9,3 +9,15 @@ text-align: center;
 h1{
 text-align: center;
 }
+.container1{
+max-height: fit-content;
+max-width: fit-content;
+margin: 1%;
+display: grid;
+grid-template-columns: auto 1fr;
+grid-gap: 3px;
+grid-template-areas:
+  'header header'
+  'nav main'
+  'footer footer'
+}
