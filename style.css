@@ -74,3 +74,20 @@ font-size: 15px;
 border-radius: 10px;
 text-align: center;
 }
+.gallery{
+margin: 5px;
+border: solid 1px #8ad6f2;
+float: left;
+width: 180px;
+}
+.gallery:hover{
+border: solid 2px #8ad6f2;
+}
+.gallery img{
+width: 100%;
+height: auto;
+}
+.desc{
+padding: 10px;
+text-align: center;
+}
