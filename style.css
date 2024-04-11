@@ -74,22 +74,22 @@ font-size: 15px;
 border-radius: 10px;
 text-align: center;
 }
-.gallery{
+div.gallery{
 margin: 5px;
 border: solid 1px white;
 float: left;
 width: 180px;
 border-radius: 10px;
 }
-.gallery:hover{
-border: solid 2px #8ad6f2;
+div.gallery:hover{
+border: solid 1px #8ad6f2;
 border-radius: 10px;
 }
-.gallery img{
+div.gallery img{
 width: 100%;
 height: auto;
 }
-.desc{
+div.desc{
 padding: 10px;
 text-align: center;
 }
