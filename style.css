@@ -11,7 +11,8 @@ text-align: center;
 overflow: scroll;
 height: 200px;
 width: 350px;
-scrollbar-color: white black;
+scrollbar-color: black white;
+scrollbar-width: 3px;
 }
 
 h1{
