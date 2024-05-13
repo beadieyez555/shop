@@ -9,7 +9,7 @@ text-align: center;
 
 .scroll{
 overflow: scroll;
-height: 350px;
+height: 200px;
 width: 350px;
 scrollbar-color: white black;
 }
