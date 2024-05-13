@@ -8,8 +8,10 @@ text-align: center;
 }
 
 .scroll{
-overflow: auto;
+overflow: scroll;
+height: 350px;
 width: 350px;
+scrollbar-color: white black;
 }
 
 h1{
